@@ -1,0 +1,13 @@
+{
+    "nfts": [
+        {
+            "name": "Cross-Chain Warriors #1",
+            "background": "castle1",
+            "head": "boboscare",
+            "armor": "bluecape",
+            "helmet": "samurai",
+            "left hand": "shield6",
+            "right hand": "piratsword"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Cross-Chain Warriors #1",
+  "description": "pivo se peni jebe se meni",
+  "image": "ipfs://NewUriToReplace/1.png",
+  "dna": "583ddf1162066f487d1f38dfdb711317d739eef3",
+  "edition": 1,
+  "date": 1638132558329,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "castle1"
+    },
+    {
+      "trait_type": "Body",
+      "value": "body"
+    },
+    {
+      "trait_type": "Head",
+      "value": "boboscare"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "shoe3"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "bluecape"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "samurai"
+    },
+    {
+      "trait_type": "Left Finger1",
+      "value": "final160"
+    },
+    {
+      "trait_type": "Left Finger2",
+      "value": "final157"
+    },
+    {
+      "trait_type": "Left Hand",
+      "value": "shield6"
+    },
+    {
+      "trait_type": "Right Hand",
+      "value": "piratsword"
+    },
+    {
+      "trait_type": "Right Finger",
+      "value": "final156"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
